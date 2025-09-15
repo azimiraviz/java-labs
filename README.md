@@ -1,2 +1,2 @@
 # java-labs
-Personal java experiments
+Personal java experiments and learning projects
